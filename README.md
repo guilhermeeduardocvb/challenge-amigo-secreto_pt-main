@@ -12,5 +12,6 @@ A aplicação tem como objetivo facilitar a realização de sorteios de amigo se
 <div align="center">
   
 https://github.com/user-attachments/assets/3fc81fdd-caab-4fc3-8e68-e5215bdc3a5c
-
 </div>
+
+<p>Clique aqui para ver o projeto funcionando !</p>
