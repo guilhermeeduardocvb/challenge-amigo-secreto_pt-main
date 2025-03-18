@@ -3,4 +3,4 @@
 A aplicação tem como objetivo facilitar a realização de sorteios de amigo secreto de forma rápida e prática.</p>
 <br>
 <h2>Tecnologias utilizadas</h2>
-<img src= https://pin.it/2IialSgSB>
+<img src=https://br.pinterest.com/pin/55380270407677212/>
