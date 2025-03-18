@@ -10,5 +10,5 @@ A aplicação tem como objetivo facilitar a realização de sorteios de amigo se
 
 <h3 align="center"> Modo de usar</h3>
 <div align="center">
-<video src=./assets/modo_de_usar.mp4>
+
 </div>
